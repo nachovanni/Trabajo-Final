@@ -1,5 +1,5 @@
 # Trabajo-Final
-Trabajo Práctico Final (TP): Desarrollar un e-commerce para una panadería utilizando tecnologías back-end y front-end.
+Trabajo Práctico Final (TP): Desarrollar un e-commerce utilizando tecnologías back-end y front-end.
 ### Backend
 1. Debes entrar a la carpeta del backend escribiendo cd backend en la terminal.
 2. En el directorio del proyecto, instala las librerías escribiendo yarn.
