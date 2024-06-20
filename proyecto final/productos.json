@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pan Francés",
+        "descripción": "Pan crujiente y dorado, ideal para el desayuno.",
+        "precio": 50,
+        "imagen": "pan_frances.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Croissant",
+        "descripción": "Delicioso croissant de mantequilla.",
+        "precio": 70,
+        "imagen": "croissant.jpg"
+    }
+    // Agrega al menos 8 productos más
+]
